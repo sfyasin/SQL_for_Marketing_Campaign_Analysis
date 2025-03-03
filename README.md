@@ -5,5 +5,5 @@ This analysis evaluates marketing performance across different campaigns, channe
 GitHub does not support Plotly interactive graphs in Jupyter notebooks. To view them properly:
 
 1. Copy the notebook’s GitHub URL.
-2. Go to [NBViewer] (https://nbviewer.org).
+2. Go to [NBViewer](https://nbviewer.org).
 3. Paste the link and open the notebook.
